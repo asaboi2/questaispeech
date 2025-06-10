@@ -1,0 +1,5 @@
+assemblyai
+google-generativeai
+hume-python
+websockets>=11.0
+pyaudio
