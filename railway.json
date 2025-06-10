@@ -1,0 +1,4 @@
+{
+  "build": "docker build -t realtime-agent .",
+  "start": "docker run -it --rm realtime-agent"
+}
